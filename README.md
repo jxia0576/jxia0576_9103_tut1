@@ -9,5 +9,5 @@ console.log("Hello, world!");
 ```
 
 ```
-This is **Bold Text** Bold word
+This is **Bold Text** 
 ```
