@@ -7,4 +7,4 @@ I am primarily responsible for the Group PPT and the foundational interactive co
 #### Animation Effects
 During rapid dragging, colour blocks within the grid dart about like a stream of traffic; when moved slowly, they glide with leisurely grace, allowing the user's rhythm of motion to shape the visual composition.
 #### References Inspiration
-![image](643c9664d25d369ec656822bae7e543f.jpg./images/example.png)
+![image](643c9664d25d369ec656822bae7e543f.jpg)
