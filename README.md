@@ -1,5 +1,5 @@
-# QUIZ8
-## Part 1
+# IDEA9103_MainProject_jxia0576
+## Instructions
 ```
 Inspiration: Doctor Strange's Magic Circle Visual Effects
 
